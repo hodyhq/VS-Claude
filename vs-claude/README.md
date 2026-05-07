@@ -4,22 +4,21 @@ A warm, Claude.ai-inspired dark theme for VSCode and Antigravity IDE.
 
 Palette extracted directly from the Claude.ai web app: a warm-neutral dark base, muted cream foreground, and a soft terracotta accent.
 
-![Welcome screen](vs-claude/screenshots/welcome.png)
+![Welcome screen](screenshots/welcome.png)
 
-![Editor with Claude Code](vs-claude/screenshots/editor.png)
+![Editor with Claude Code](screenshots/editor.png)
 
-![Code syntax highlighting](vs-claude/screenshots/code.png)
+![Code syntax highlighting](screenshots/code.png)
 
 ## Install (Antigravity)
 
-1. Download or clone this repo.
-2. Copy the `vs-claude/` folder (the one inside this repo, not the repo root) into your extensions directory:
+1. Copy the entire `vs-claude` folder into your extensions directory:
    ```
    %USERPROFILE%\.antigravity\extensions\
    ```
-3. Restart Antigravity.
-4. Open the Color Theme picker: `Ctrl+K`, `Ctrl+T`.
-5. Select **VS Claude**.
+2. Restart Antigravity.
+3. Open the Color Theme picker: `Ctrl+K`, `Ctrl+T`.
+4. Select **VS Claude**.
 
 ## Install (VSCode)
 
