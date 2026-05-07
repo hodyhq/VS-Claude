@@ -8,6 +8,8 @@ Palette extracted directly from the Claude.ai web app: a warm-neutral dark base,
 
 ![Editor with Claude Code](screenshots/editor.png)
 
+![Code syntax highlighting](screenshots/code.png)
+
 ## Install (Antigravity)
 
 1. Copy the entire `vs-claude` folder into your extensions directory:
