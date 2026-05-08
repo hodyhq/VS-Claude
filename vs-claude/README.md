@@ -35,7 +35,7 @@ Same steps but use:
 | Sidebar / panels / inputs | `#262626` |
 | Section headers / title bar / activity bar | `#2C2C2A` |
 | Borders | `#3A3733` / `#403D38` |
-| Primary text | `#E2E1DA` |
+| Primary text | `#F6F6F4` |
 | Muted text | `#8F8D83` |
 | Accent (focus, button, badge, cursor, errors) | `#A65F47` |
 
