@@ -10,7 +10,21 @@ Palette extracted directly from the Claude.ai web app: a warm-neutral dark base,
 
 ![Code syntax highlighting](vs-claude/screenshots/code.png)
 
-## Install (Antigravity)
+### From VSIX (Recommended)
+
+1. Download `vs-claude.vsix` from the [Releases](../../releases/latest) page.
+2. Install via the command line:
+   ```
+   # Antigravity
+   antigravity --install-extension vs-claude.vsix
+
+   # VSCode
+   code --install-extension vs-claude.vsix
+   ```
+   Or install from the IDE: open the Command Palette (`Ctrl+Shift+P`), run **Extensions: Install from VSIX...**, and select the downloaded file.
+3. Open the Color Theme picker (`Ctrl+K`, `Ctrl+T`) and select **VS Claude**.
+
+## Install Manually (Antigravity)
 
 1. Download or clone this repo.
 2. Copy the `vs-claude/` folder (the one inside this repo, not the repo root) into your extensions directory:
@@ -21,7 +35,7 @@ Palette extracted directly from the Claude.ai web app: a warm-neutral dark base,
 4. Open the Color Theme picker: `Ctrl+K`, `Ctrl+T`.
 5. Select **VS Claude**.
 
-## Install (VSCode)
+## Install Manually (VSCode)
 
 Same steps but use:
 ```
